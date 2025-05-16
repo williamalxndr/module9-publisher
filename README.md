@@ -11,3 +11,6 @@
 ![ss-subscriber](assets/images/ss-subscriber-console.png)
 ![ss-publisher](assets/images/ss-publisher-console.png)
 > Berdasarkan log dari console subscriber, dapat terlihat bahwa terdapat setiap satu kali publisher dirun, maka terdapat 5 message yang dikirim melalui message broker dan ditangkap oleh subscriber.
+
+### Monitoring Chart 
+![ss-monitoring-chart](assets/images/ss-monitoring-chart.png)
