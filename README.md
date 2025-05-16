@@ -14,3 +14,4 @@
 
 ### Monitoring Chart 
 ![ss-monitoring-chart](assets/images/ss-monitoring-chart.png)
+Saya mencoba untuk menjalankan 6 kali publish, dan hasilnya adalah message dipublish 3 message/s selama beberapa detik tanpa ada penurunan atau kenaikan. Spike yang terbentuk menandakan bahwa message dipublish dengan rate yang konsisten.
